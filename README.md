@@ -14,11 +14,7 @@ This repository serves as a hub for sharing resources, research findings, and to
 - [Data analysis scripts](./scripts): A collection of scripts for analyzing scientific data and extracting meaningful insights.
 - [Visualization tools](./tools): Tools and libraries for visualizing scientific networks, citation patterns, and other Science of Science-related data.
 - [Datasets](./datasets): Curated datasets that can be used for studying scientific publications, collaborations, and citation networks.
-- [Tutorials](./tutorials): Step-by-step guides and tutorials to help you get started with the analysis of scientific data.
-
-
-
-
+- [Tutorials](./tutorials): Step-by-step guides and tutorials to help you get started with the analysis of scientific data
 
 ## Datasets and APIs
 
@@ -48,9 +44,6 @@ Intro to exploring citation networks, paper-to-patent studies, scientific innova
 ## Contact
 
 Feel free to reach out to us if you have any questions, ideas, or collaboration opportunities:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Twitter: [@ScienceOfScience](https://twitter.com/ScienceOfScience)
 
 I look forward to exploring the Science of Science together!
 
