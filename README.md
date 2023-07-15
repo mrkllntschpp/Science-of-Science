@@ -45,5 +45,8 @@ Intro to exploring citation networks, paper-to-patent studies, scientific innova
 
 Feel free to reach out to us if you have any questions, ideas, or collaboration opportunities:
 
+- Mark Tschopp at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/), [ORCID](https://orcid.org/0000-0001-8471-5035), [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mark-Tschopp)
+- Email: mark.a.tschopp.civ at arl.mil
+
 I look forward to exploring the Science of Science together!
 
